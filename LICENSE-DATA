@@ -1,0 +1,23 @@
+# Catalog data license: CC BY 4.0
+
+Our own catalog data in `src/content/` (port records, hardware profiles and test
+records) is licensed under the:
+
+**Creative Commons Attribution 4.0 International (CC BY 4.0)**
+
+- License text: https://creativecommons.org/licenses/by/4.0/legalcode
+- Human-readable summary: https://creativecommons.org/licenses/by/4.0/
+
+You are free to share and adapt this data for any purpose, provided you give
+appropriate credit, link to this license, and indicate if changes were made.
+
+## Imported data
+
+Part of the catalog was imported from community indexes and is not covered by
+the CC BY 4.0 grant above; it is attributed to its source:
+
+- GameWave (https://gamewave.digital/) — console and Android ports.
+- PortsDR (https://portsdr.com/) — console ports without a public repository.
+
+Code and software in this repository remain under the MIT License (see
+`LICENSE`).
